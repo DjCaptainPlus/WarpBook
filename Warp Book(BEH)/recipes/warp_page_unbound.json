@@ -1,0 +1,31 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:warp_page_unbound_from_bound"
+    },
+
+    "tags": ["crafting_table"],
+    "pattern": ["#"],
+    "key": {
+      "#": {
+        "tag": "realm:warp_page_bound"
+      }
+    },
+    "unlock": [
+      {
+        "item": "realm:warp_page_bound"
+      },
+      {
+        "item": "realm:warp_page_accept"
+      },
+      {
+        "item": "realm:warp_page_decline"
+      }
+    ],
+    "result": {
+      "item": "realm:warp_page_unbound",
+      "count": 1
+    }
+  }
+}

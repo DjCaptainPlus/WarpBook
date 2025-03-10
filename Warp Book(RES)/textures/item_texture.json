@@ -1,0 +1,19 @@
+{
+	"texture_data": {
+		"warp_book": {
+			"textures": "textures/items/warp_book.png"
+		},
+		"warp_page_unbound": {
+			"textures": "textures/items/warp_page_unbound.png"
+		},
+		"warp_page": {
+			"textures": "textures/items/warp_page.png"
+		},
+		"warp_page_accept": {
+			"textures": "textures/items/warp_page_accept.png"
+		},
+		"warp_page_decline": {
+			"textures": "textures/items/warp_page_decline.png"
+		}
+	}
+}
